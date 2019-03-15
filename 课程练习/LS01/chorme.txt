@@ -1,0 +1,9 @@
+chrome操作
+
+Fn + F12 = 检查
+Ctrl + Shift  
+Shift + 回车  换行
+Ctrl + l    清空
+Ctrl + r   刷新
+
+html:5 + Tab   html结构
